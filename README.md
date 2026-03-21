@@ -7,12 +7,12 @@
   <img src="https://readme-typing-svg.herokuapp.com?color=e0d531&center=true&vCenter=true&lines=Data+Analyst;SQL+%7C+Python+%7C+Power+BI;Building+Projects+🚀">
 </p>
 <p align="center">
-  <img src="https://img.shields.io/badge/STATUS-ONLINE-brightgreen">
+  <img src="https://img.shields.io/badge/STATUS-ONLINE-blue">
   <img src="https://img.shields.io/badge/LOCATION-INDIA-blue">
-  <img src="https://img.shields.io/badge/FOCUS-DATA%20ANALYTICS-orange">
+  <img src="https://img.shields.io/badge/FOCUS-DATA%20ANALYTICS-pink">
 <p align="center">
-  <img src="https://raw.githubusercontent.com/amdhruv/amdhruv/output/github-contribution-grid-snake.svg">
-</p>>
+  <img src="https://raw.githubusercontent.com/amdhruv/amdhruv/output/.github/github-contribution-grid-snake.svg">
+</p>
 ---
 
 ### 🧠 whoami
