@@ -35,11 +35,10 @@
 - **Concepts:** Data Cleaning, EDA, Visualization
 - ---
 
-### 📊 GitHub Stats
-
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=amdhruv&show_icons=true&theme=default">
+  <img src="https://media.giphy.com/media/3o7btPCcdNniyf0ArS/giphy.gif" width="300">
 </p>
+
 ---
 
 ### 📫 Connect With Me
@@ -60,8 +59,5 @@
 </p>
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=amdhruv&theme=github-light">
-</p>
-<p align="center">
-  <img src="https://media.giphy.com/media/3o7btPCcdNniyf0ArS/giphy.gif" width="300">
 </p>
 
