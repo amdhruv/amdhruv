@@ -52,4 +52,9 @@
 <p align="center">
   Python • SQL • Power BI • Excel
 </p>
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-Data%20Analysis-blue?style=for-the-badge">
+  <img src="https://img.shields.io/badge/SQL-Querying-lightgrey?style=for-the-badge">
+  <img src="https://img.shields.io/badge/PowerBI-Dashboard-yellow?style=for-the-badge">
+</p>
 
