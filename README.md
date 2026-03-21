@@ -4,7 +4,7 @@
   🎓 BCA Student // 📊 Aspiring Data Analyst
 </p>
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=00FF00&center=true&vCenter=true&lines=Data+Analyst;SQL+%7C+Python+%7C+Power+BI;Building+Projects+🚀">
+  <img src="https://readme-typing-svg.herokuapp.com?color=e0d531&center=true&vCenter=true&lines=Data+Analyst;SQL+%7C+Python+%7C+Power+BI;Building+Projects+🚀">
 </p>
 <p align="center">
   <img src="https://img.shields.io/badge/STATUS-ONLINE-brightgreen">
