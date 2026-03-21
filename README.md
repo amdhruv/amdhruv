@@ -1,38 +1,55 @@
 <h1 align="center">Dhruv</h1>
 
 <p align="center">
-  🎓 BCA Student // 📊 Aspiring Data Analyst
+  Turning Data into Insights 📊
 </p>
+
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=e0d531&center=true&vCenter=true&lines=Data+Analyst;SQL+%7C+Python+%7C+Power+BI;Building+Projects+🚀">
-</p>
-<p align="center">
-  <img src="https://img.shields.io/badge/STATUS-ONLINE-black">
-  <img src="https://img.shields.io/badge/LOCATION-INDIA-blue">
-  <img src="https://img.shields.io/badge/FOCUS-DATA%20ANALYTICS-pink">
-<p align="center">
-  <img src="https://raw.githubusercontent.com/amdhruv/amdhruv/output/.github/github-contribution-grid-snake.svg">
-</p>
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=amdhruv&theme=tokyo-night">
-</p>
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=amdhruv&theme=tokyonight">
+  BCA Student • Aspiring Data Analyst  
+  SQL • Python • Power BI • Excel
 </p>
 ---
 
-### 🧠 whoami
+### 📌 About Me
 
-```bash
-$ whoami
+- 📊 I analyze data to uncover meaningful insights  
+- 🧠 Currently learning advanced SQL & data visualization  
+- 📈 Focused on real-world business problems  
+- 🚀 Building projects in Python, SQL & Power BI
+-  ---
 
-name     -> Dhruv
-role     -> Data Analyst (in progress)
-skills   -> Python | SQL | Power BI | Excel
-learning -> Advanced SQL & Data Visualization
+### ⚙️ Skills
 
-<!--
+- **Languages:** Python, SQL  
+- **Tools:** Power BI, Excel  
+- **Libraries:** Pandas, NumPy, Matplotlib  
+- **Concepts:** Data Cleaning, EDA, Visualization
+- ---
 
+### 📊 GitHub Stats
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=amdhruv&show_icons=true&theme=default">
+</p>
+---
 
+### 📫 Connect With Me
+
+- LinkedIn: (add later)
+- Email:dhruvgautam242@gmail.com
+- ---
+---
+
+### 🛠️ Tools & Technologies
+
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="50" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="50" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="50" />
+  <img src="https://img.icons8.com/color/48/microsoft-excel-2019.png" width="50"/>
+  <img src="https://img.icons8.com/color/48/power-bi.png" width="50"/>
+</p>
+<p align="center">
+  Python • SQL • Power BI • Excel
+</p>
 
