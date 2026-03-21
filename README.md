@@ -11,7 +11,9 @@
   <img src="https://img.shields.io/badge/LOCATION-INDIA-blue">
   <img src="https://img.shields.io/badge/FOCUS-DATA%20ANALYTICS-orange">
 </p>
-![snake](https://raw.githubusercontent.com/amdhruv/amdhruv/output/github-contribution-grid-snake.svg)
+<p align="center">
+  <img src="https://raw.githubusercontent.com/amdhruv/amdhruv/output/github-contribution-grid-snake.svg">
+</p>
 ---
 
 ### 🧠 whoami
