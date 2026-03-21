@@ -61,5 +61,7 @@
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=amdhruv&theme=github-light">
 </p>
-
+<p align="center">
+  <img src="https://media.giphy.com/media/3o7btPCcdNniyf0ArS/giphy.gif" width="300">
+</p>
 
