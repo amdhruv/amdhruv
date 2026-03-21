@@ -13,6 +13,12 @@
 <p align="center">
   <img src="https://raw.githubusercontent.com/amdhruv/amdhruv/output/.github/github-contribution-grid-snake.svg">
 </p>
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=amdhruv&theme=tokyo-night">
+</p>
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=amdhruv&theme=tokyonight">
+</p>
 ---
 
 ### 🧠 whoami
