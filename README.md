@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=3B82F6&center=true&vCenter=true&lines=Turning+Data+into+Insights;SQL+%7C+Python+%7C+Power+BI;Data+Cleaning+%7C+EDA+%7C+Visualization">
+  <img src="https://readme-typing-svg.herokuapp.com?color=afb9a5&center=true&vCenter=true&lines=Turning+Data+into+Insights;SQL+%7C+Python+%7C+Power+BI;Data+Cleaning+%7C+EDA+%7C+Visualization">
 </p>
 <p align="center">
   Python • SQL • Power BI • Excel
@@ -35,15 +35,11 @@
 - **Concepts:** Data Cleaning, EDA, Visualization
 - ---
 
-<p align="center">
-  <img src="https://media.giphy.com/media/3o7btPCcdNniyf0ArS/giphy.gif" width="300">
-</p>
 
 ---
 
 ### 📫 Connect With Me
 
-- LinkedIn: (add later)
 - Email:dhruvgautam242@gmail.com
 - ---
 ---
