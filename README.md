@@ -1,17 +1,22 @@
-<h1 align="center">Dhruv</h1>
+<h1 align="center">Dhruv Gautam</h1>
 
 <p align="center">
-  Turning Data into Insights 📊
+ 
 </p>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?color=3B82F6&center=true&vCenter=true&lines=Turning+Data+into+Insights;SQL+%7C+Python+%7C+Power+BI;Data+Cleaning+%7C+EDA+%7C+Visualization">
 </p>
-
 <p align="center">
-  BCA Student • Aspiring Data Analyst  
-  SQL • Python • Power BI • Excel
+  Python • SQL • Power BI • Excel
 </p>
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-Data%20Analysis-blue?style=for-the-badge">
+  <img src="https://img.shields.io/badge/SQL-Querying-lightgrey?style=for-the-badge">
+  <img src="https://img.shields.io/badge/PowerBI-Dashboard-yellow?style=for-the-badge">
+</p>
+
+
 ---
 
 ### 📌 About Me
@@ -52,13 +57,5 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="50" />
   <img src="https://img.icons8.com/color/48/microsoft-excel-2019.png" width="50"/>
   <img src="https://img.icons8.com/color/48/power-bi.png" width="50"/>
-</p>
-<p align="center">
-  Python • SQL • Power BI • Excel
-</p>
-<p align="center">
-  <img src="https://img.shields.io/badge/Python-Data%20Analysis-blue?style=for-the-badge">
-  <img src="https://img.shields.io/badge/SQL-Querying-lightgrey?style=for-the-badge">
-  <img src="https://img.shields.io/badge/PowerBI-Dashboard-yellow?style=for-the-badge">
 </p>
 
