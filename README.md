@@ -11,6 +11,7 @@
   <img src="https://img.shields.io/badge/LOCATION-INDIA-blue">
   <img src="https://img.shields.io/badge/FOCUS-DATA%20ANALYTICS-orange">
 </p>
+![snake](https://github.com/amdhruv/amdhruv/blob/output/github-contribution-grid-snake.svg)
 ---
 
 ### 🧠 whoami
@@ -24,4 +25,7 @@ skills   -> Python | SQL | Power BI | Excel
 learning -> Advanced SQL & Data Visualization
 
 <!--
-![snake](https://github.com/amdhruv/amdhruv/blob/output/github-contribution-grid-snake.svg)
+
+
+
+
