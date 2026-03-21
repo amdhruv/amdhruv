@@ -1,16 +1,26 @@
-## Hi there 👋
+<h1 align="center">Dhruv</h1>
+
+<p align="center">
+  🎓 BCA Student // 📊 Aspiring Data Analyst
+</p>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?color=00FF00&center=true&vCenter=true&lines=Data+Analyst;SQL+%7C+Python+%7C+Power+BI;Building+Projects+🚀">
+</p>
+<p align="center">
+  <img src="https://img.shields.io/badge/STATUS-ONLINE-brightgreen">
+  <img src="https://img.shields.io/badge/LOCATION-INDIA-blue">
+  <img src="https://img.shields.io/badge/FOCUS-DATA%20ANALYTICS-orange">
+</p>
+---
+
+### 🧠 whoami
+
+```bash
+$ whoami
+
+name     -> Dhruv
+role     -> Data Analyst (in progress)
+skills   -> Python | SQL | Power BI | Excel
+learning -> Advanced SQL & Data Visualization
 
 <!--
-**amdhruv/amdhruv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
