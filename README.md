@@ -24,3 +24,4 @@ skills   -> Python | SQL | Power BI | Excel
 learning -> Advanced SQL & Data Visualization
 
 <!--
+![snake](https://github.com/amdhruv/amdhruv/blob/output/github-contribution-grid-snake.svg)
