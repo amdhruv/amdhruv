@@ -58,4 +58,8 @@
   <img src="https://img.icons8.com/color/48/microsoft-excel-2019.png" width="50"/>
   <img src="https://img.icons8.com/color/48/power-bi.png" width="50"/>
 </p>
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=amdhruv&theme=github-light">
+</p>
+
 
