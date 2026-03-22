@@ -15,7 +15,9 @@
   <img src="https://img.shields.io/badge/SQL-Querying-lightgrey?style=for-the-badge">
   <img src="https://img.shields.io/badge/PowerBI-Dashboard-yellow?style=for-the-badge">
 </p>
-</p "Portfolio-dhruvinsights.in</p>
+## 🌐 Live Portfolio
+
+[![Visit Portfolio](https://img.shields.io/badge/Visit-Portfolio-00C853?style=for-the-badge&logo=google-chrome&logoColor=white)](https://dhruvinsights.in)
 
 
 ---
